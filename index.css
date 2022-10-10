@@ -1,0 +1,48 @@
+header{
+    height: 150px;
+    width: 2791px;
+}
+
+.cenu,.hp1{
+    position: absolute;
+}
+
+.cenu{
+    border-bottom: 3px solid #929292;
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 26px;
+    line-height: 48px;
+    font-weight: 700;
+    height: 150px;
+    width: 2560px;
+    left: 50px;
+}
+
+.u2,.u3,.u4,.u5{
+    color: #212121;
+}
+
+.u1{
+    left: 0px;
+    color: #070707;
+}
+
+.u2{
+    left: 500px;
+}
+
+.u3{
+    top: 0px;
+    left: 1200px;
+}
+
+.u4{
+    top: 0px;
+    left: 1750px;
+}
+
+.u5{
+    top: 0px;
+    left: 2400px;
+}
