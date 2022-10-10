@@ -3,7 +3,7 @@ header{
     width: 2791px;
 }
 
-.cenu,.hp1{
+.cenu,.hp1,.content,.c1,.c2,.c3,.c1p{
     position: absolute;
 }
 
@@ -45,4 +45,29 @@ header{
 .u5{
     top: 0px;
     left: 2400px;
+}
+
+.content{
+    border: 1px solid black;
+    color: #070707;
+    top: 200px;
+    left: 50px;
+    height: 190px;
+    width: 2560px;
+}
+
+.c1{
+    font-size: 60px;
+}
+
+.c2{
+    font-size: 20px;
+    left: 1200px;
+    top: 100px;
+}
+
+.c3{
+    font-size: 20px;
+    left: 1200px;
+    top: 100px;
 }
